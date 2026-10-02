@@ -1,0 +1,32 @@
+.vino { 
+    display: flex;
+    height: 15rem;
+    width: 15rem;
+    margin: 1rem;
+    outline: solid;
+    outline-width: 0.25rem;
+    outline-color: white;
+}
+
+.divchik {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    justify-content: center;
+}
+html { 
+    margin: 0;
+    background-color: black;
+    color: white;
+}
+.h11{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center
+}
+
+footer {
+    display: flex;
+    font-family: 'Franklin Gothic Bold', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center
+}
